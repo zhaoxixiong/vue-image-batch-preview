@@ -1,0 +1,31 @@
+{
+  "name": "vue-image-batch-preview",
+  "version": "1.0.0",
+  "description": "A vue image previewer component",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "swiper": "^5.2.0"
+  },
+  "author": "zhaoxixiong",
+  "keywords": [
+    "preview",
+    "previewer",
+    "vue-image-batch-preview",
+    "vue-image-preview",
+    "vue-image-previewer",
+    "image-batch-preview",
+    "image-batch-previewer",
+    "image-preview",
+    "image-previewer"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoxixiong/vue-image-batch-preview.git"
+  },
+  "bugs": "https://github.com/zhaoxixiong/vue-image-batch-preview/issues",
+  "homepage": "https://github.com/zhaoxixiong/vue-image-batch-preview#readme"
+}
